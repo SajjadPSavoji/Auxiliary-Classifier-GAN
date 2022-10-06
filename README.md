@@ -4,7 +4,7 @@ In this project we use a new methods for the improved training of generative adv
 
 ## Results
 
-![ACGAN output example]()
+![ACGAN output example](https://github.com/SajjadPSavoji/Auxiliary-Classifier-GAN/blob/master/ACGAN.png)
 
 ## Resources
 - [original paper](https://arxiv.org/abs/1610.09585)
